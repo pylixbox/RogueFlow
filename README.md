@@ -21,28 +21,19 @@
 
 **RogueFlow** is a minimal, performance-driven automation framework designed exclusively for the Roblox game **Rogue Piece**.
 
-It avoids brute-force automation in favor of **smooth, state-based execution** that prioritizes stability, efficiency, and control.
-
 ---
 
 ## ▣ Philosophy
 
-> Automation should *flow* — not fight the system.
-
-- Lightweight by design  
-- Single-game focus  
-- Stable under lag and interruptions  
-- Built to be understood, not obfuscated  
+> Automation should flow — not fight the system.
 
 ---
 
 ## ▣ Features
 
 - State-driven automation engine  
-- Modular system (enable only what you need)  
-- Rogue Piece–specific logic  
+- Modular system  
 - Safety & recovery mechanisms  
-- Configurable timing and behavior  
 
 ---
 
@@ -55,25 +46,12 @@ It avoids brute-force automation in favor of **smooth, state-based execution** t
 ## ▣ Documentation
 
 - **[Developer Guide](docs/README.dev.md)**
-- Architecture & internals (coming soon)
-
----
-
-## ▣ Roadmap
-
-- [ ] Core engine  
-- [ ] Movement module  
-- [ ] Combat sequencing  
-- [ ] Farming logic  
-- [ ] Performance tuning  
-- [ ] Public release  
 
 ---
 
 ## ▣ Disclaimer
 
-RogueFlow is **not affiliated** with Roblox or Rogue Piece.  
-Automation may violate game rules. Use at your own risk.
+Use at your own risk. Not affiliated with Roblox.
 
 ---
 

@@ -1,99 +1,73 @@
-RogueFlow
+<p align="center">
+  <img src="assets/logo.png" width="140" />
+</p>
 
-RogueFlow is a performance-focused automation framework built exclusively for the Roblox game Rogue Piece.
-Designed with stability, efficiency, and simplicity in mind, RogueFlow delivers smooth, reliable automation without unnecessary overhead.
+<h1 align="center">RogueFlow</h1>
 
-Built by players who value clean engineering over brute force.
+<p align="center">
+  <b>Flow, Not Force.</b><br>
+  Lightweight, performance-driven automation framework for Rogue Piece.
+</p>
 
-🚀 Why RogueFlow?
+<p align="center">
+  <img src="https://img.shields.io/badge/status-in%20development-blue" />
+  <img src="https://img.shields.io/badge/focus-performance-brightgreen" />
+  <img src="https://img.shields.io/badge/scope-single--game-lightgrey" />
+</p>
 
-Most automation tools fail because they are:
+---
 
-Overcomplicated
+## 🚀 Overview
 
-Resource-heavy
+**RogueFlow** is a lightweight automation framework built specifically for the Roblox game **Rogue Piece**.  
+It prioritizes **smooth execution, stability, and performance**, avoiding bloated or fragile automation methods.
 
-Fragile under lag or updates
+---
 
-RogueFlow is different.
+## ✨ Features
 
-✔ Lightweight by Design
+- ⚙️ Lightweight, low-overhead core
+- 🧠 State-driven automation logic
+- 🎮 Rogue Piece–specific systems
+- 🧩 Modular feature toggles
+- 🔒 Built-in safety and recovery logic
 
-Minimal CPU and memory usage
+---
 
-Smart timing instead of constant polling
+## 🧠 Design Philosophy
 
-✔ Reliable Automation
+> **Flow over force. Stability over speed.**
 
-State-driven logic
+- Designed for consistency, not aggression  
+- Built with maintainability in mind  
+- Clean, readable architecture  
 
-Built-in recovery and safety mechanisms
+---
 
-Resistant to common soft-lock scenarios
+## 📦 Installation
 
-✔ Focused & Optimized
+➡️ **[View Installation Guide](docs/installation.md)**
 
-Built only for Rogue Piece
+---
 
-No bloated “universal” features
+## 🛣️ Roadmap
 
-Tuned specifically for the game’s mechanics
+- [ ] Core automation engine
+- [ ] Movement module
+- [ ] Combat logic
+- [ ] Farming automation
+- [ ] Performance optimization
+- [ ] Public documentation
 
-✨ Core Features
+---
 
-Smooth movement automation
+## ⚠️ Disclaimer
 
-Intelligent action and skill sequencing
+> RogueFlow is not affiliated with Roblox or Rogue Piece.  
+> Automation may violate game rules. Use at your own risk.
 
-Repetitive task and farming automation
+---
 
-Modular feature system
-
-Configurable behavior profiles
-
-Graceful start/stop controls
-
-🧠 Built With Intent
-
-RogueFlow is engineered with three priorities:
-
-Performance – No wasted cycles
-
-Stability – Automation that adapts, not breaks
-
-Transparency – Clean, understandable logic
-
-⚠️ Disclaimer
-
-RogueFlow is not affiliated with Roblox or Rogue Piece.
-
-Automation may violate game rules.
-Use at your own risk.
-
-This software is provided for educational and experimental purposes.
-
-📈 Development Status
-
-RogueFlow is under active development.
-Features and performance improvements are released incrementally.
-
-📜 Licensing & Access
-
-Licensing details will be announced closer to a stable release.
-Planned options may include:
-
-Community edition
-
-Advanced feature access
-
-Priority updates & support
-
-🧭 Roadmap Highlights
-
-Expanded configuration profiles
-
-Improved lag tolerance
-
-Simplified setup
-
-User documentation & tutorials
+<p align="center">
+  <sub>© RogueFlow — Educational & Experimental Project</sub>
+</p>
